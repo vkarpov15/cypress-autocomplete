@@ -1,0 +1,11 @@
+{
+  "name": "cypress-autocomplete",
+  "devDependencies": {
+    "cypress": "3.0.2",
+    "serve": "9.2.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "serve": "serve ./"
+  }
+}
